@@ -9,7 +9,7 @@ How to use the p5.js JavaScript library
 
 It enables you to change variable values without reloading the P5 rendering, see the gif below:
 
-![In action](image.gif)
+![In action](https://github.com/filipesabella/vscode-live-p5/raw/master/image.gif)
 
 ## How to use it
 
